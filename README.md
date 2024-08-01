@@ -20,7 +20,7 @@ In case you are using Fedora 40+, you'll need to enable the `erovia/dfu-programm
 
 ## Compile a firmware
 
-You can customize, compile and download the firmware at [config.qmk.fml](https://config.qmk.fm/#/omkbd/ergodash/rev1/LAYOUT_4key).
+You can customize, compile and download the firmware at [config.qmk.fm](https://config.qmk.fm/#/omkbd/ergodash/rev1/LAYOUT_4key).
 
 ## Flash a firmware
 

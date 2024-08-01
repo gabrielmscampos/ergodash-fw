@@ -16,6 +16,8 @@ pip install qmk
 qmk setup -H $(pwd)/qmk_firmware
 ```
 
+In case you are using Fedora 40+, you'll need to enable the `erovia/dfu-programmer` copr.
+
 ## Compile a firmware
 
 You can customize, compile and download the firmware at [config.qmk.fml](https://config.qmk.fm/#/omkbd/ergodash/rev1/LAYOUT_4key).
